@@ -1,0 +1,47 @@
+[
+  {
+    "route": "care",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "ending": "한 사람의 무게",
+    "passed": true,
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "route": "facts",
+    "viewport": [
+      390,
+      844
+    ],
+    "ending": "사슬을 쥔 손",
+    "passed": true,
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "route": "refusal",
+    "viewport": [
+      320,
+      740
+    ],
+    "ending": "말이 없는 자리",
+    "passed": true,
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "check": "inconsistent save rejected",
+    "passed": true
+  },
+  {
+    "check": "invalid JSON rejected",
+    "passed": true
+  },
+  {
+    "check": "blocked storage warns and permits play",
+    "passed": true
+  }
+]
